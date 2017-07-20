@@ -1,1 +1,1 @@
-# Bookmarks-Navigation example for a website
+# Bookmarks - Navigation example for a website
